@@ -1,0 +1,48 @@
+-----------Exception Details on  10/3/2024 12:12:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/3/2024 12:12:21 PM
+
+Error Line No : pleted)
+
+Error Message: DivideByZeroException
+
+Exception Type: System.DivideByZeroException
+
+Error Location : Attempted to divide by zero.
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10/3/2024 12:13:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/3/2024 12:13:57 PM
+
+Error Line No : pleted)
+
+Error Message: ApplicationException
+
+Exception Type: System.ApplicationException
+
+Error Location : My Custme Exception...!
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
